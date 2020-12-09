@@ -1,1 +1,1 @@
-# sam_project
+# django_projects
